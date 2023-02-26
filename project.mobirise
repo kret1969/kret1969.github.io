@@ -31,7 +31,9 @@
       "titlePreset": "Portfolio",
       "nameSelectPreset": "portfolio",
       "presetSourceTheme": "mobirise5",
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#e85a4f"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "name": "MEDIA TV",
@@ -46,8 +48,8 @@
     "uniqCompNum": 9,
     "versionPublish": "5.6.13",
     "imageResize": true,
-    "favicon": false,
-    "mbrsiteDomain": "1lrkzqvztv",
+    "favicon": "@PROJECT_PATH@/assets/images/mediatv-128x128.png",
+    "mbrsiteDomain": "bimkddh3mt",
     "usedWebp": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -63,7 +65,7 @@
       "settings": {
         "main": true,
         "title": "MediaTV",
-        "meta_descr": "Twoja Najlepsza Telewizja",
+        "meta_descr": "Twoja Najlepsza Telewizj",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
